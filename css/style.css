@@ -97,10 +97,9 @@ header{
 	position: relative;
 }
 .avatar img{
-	height: 500px;
-	width: 500px;
+	height:90%;
 	position: absolute;
-	bottom: 18%;
+	bottom: 15%;
 	overflow: hidden;
 }
 .content2{
